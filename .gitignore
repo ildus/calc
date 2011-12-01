@@ -1,0 +1,7 @@
+*.dcu
+*.~*
+/test
+/install
+/History/*.txt
+*.zip
+*.exe
